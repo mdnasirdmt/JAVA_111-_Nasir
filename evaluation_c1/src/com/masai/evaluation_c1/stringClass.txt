@@ -1,0 +1,11 @@
+
+Q1.
+ans-
+string class is immutable because of security and concunrency, synchronize caching and class loading.
+
+string class method.
+1.subSequence()
+2.subString()
+3.toCharArray()
+4.toLowerCase()
+5.toUpperCase()
